@@ -1,1 +1,6 @@
-# Chenaouietal2024
+# Chenaoui et al. 2024
+This is the code for the model  described in the paper "Towards a generic agent-based vector-host model: effects of carrying capacity and host mobility" 
+DOI
+https://doi.org/10.1007/s41109-024-00629-z
+Cite this article
+Chenaoui, C., Marilleau, N. & Miled, S.B. Towards a generic agent-based vector-host model: effects of carrying capacity and host mobility. Appl Netw Sci 9, 33 (2024). https://doi.org/10.1007/s41109-024-00629-z
