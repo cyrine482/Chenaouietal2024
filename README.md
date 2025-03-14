@@ -3,7 +3,7 @@ This is the code for the model  described in the paper
 Chenaoui, C., Marilleau, N. & Miled, S.B. Towards a generic agent-based vector-host model: effects of carrying capacity and host mobility. Appl Netw Sci 9, 33 (2024). https://doi.org/10.1007/s41109-024-00629-z
 
 
-This table summarizes the parameters used in the **VectorHost model**, which simulates the interactions and dynamics between vectors (e.g., insects) and hosts (e.g., cattle, rodents). The table includes key model parameters such as host speed, initial populations, lethal temperatures, and mortality rates along with additional parameters related to vector behavior.
+This table summarizes the parameters used in the **VectorHost model**, which simulates the interactions and dynamics between vectors (e.g., ticks) and hosts (e.g., cattle, rodents). The table includes key user-modified parameters such as host speed, initial populations  of vectors and hosts, lethal temperatures for vectors, and mortality rates along with additional parameters related to vector and hosts behaviors as described in the paper.
 
 | **Parameter**        | **Variable**         | **Value**  | **Min** | **Max** | **Unit**   | **Category** | **Description**                               |
 |----------------------|----------------------|------------|---------|---------|------------|--------------|-----------------------------------------------|
